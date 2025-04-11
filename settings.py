@@ -10,8 +10,8 @@ class Settings:
         
         
         
-        self.ship_file = Path.cwd() / 'Assets' / 'images' / 'ship2(no bg).png'
-        self.ship_w = 40
+        self.ship_file = Path.cwd() / 'Assets' / 'images' / 'spaceship(custom).png'
+        self.ship_w = 80
         self.ship_h = 60
         self.ship_speed = 5
         
