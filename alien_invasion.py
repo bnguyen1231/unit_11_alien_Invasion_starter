@@ -5,7 +5,6 @@ from game_stats import GameStats
 from ship import Ship
 from arsenal import Arsenal
 from time import sleep
-#from alien import Alien
 from alien_fleet import AlienFleet
 class AlienInvasion: 
     
