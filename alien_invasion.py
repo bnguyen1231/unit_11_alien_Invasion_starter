@@ -47,7 +47,7 @@ class AlienInvasion:
             self._check_events()
             if self.game_active:
                 self.ship.update()
-                self.alien_fleet.update_fleet()
+                #self.alien_fleet.update_fleet() 
                 self._check_collisions()
             self._update_screen()
             
